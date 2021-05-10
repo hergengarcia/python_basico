@@ -25,7 +25,7 @@ Com graduação em Administração com habilitação em Análise de Sistemas e P
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Comandos básicos para Python usando Jupyter Notebook:** https://bit.ly/2L2cMwy
+* **Comandos básicos para Python usando Jupyter Notebook:** https://github.com/hergengarcia/python_basico.git
 
 
 ---
