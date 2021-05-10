@@ -5,13 +5,16 @@
 </p>
 
 # Hergen Garcia
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Superintendente na Prefeitura Municipal de São Luís - MA</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Como Superintendente na PMSL na Secretaria de Planejamento e Orçamento, eu desenvolvo relatórios de análise e gerenciamento da folha de pessoal da Prefeitura, trabalhando em um ambiente de equipe e atenção aos mínimos detalhes. Tendo realizado essa atividade nos últimos 10 anos, aplicando esse aprendizado para controle e orçamento da folha, desenvolvi um pensamento crítico e habilidade de resolução de problemas relacionados ao tema.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+* Suporte técnico a Superintendência de Assuntos Fiscais na elaboração de relatórios de receitas e despesas, demonstrativos restos a pagar e saldos orçamentários.
+* Análise do saldo orçamentário das secretarias via sistema.
+* Elaboração e análise do relatório gerencial das despesas das secretarias.
 
-**Background in:** Python, Análise de Dados , Power BI.
+Com graduação em Administração com habilitação em Análise de Sistemas e Pós em rede de Computadores, além dos cursos relacionados à área e em BI.
+**Background in:** Python, Análise de Dados , Power BI, Excel.
 
 **Links:**
 * [Blog](http://)
