@@ -26,7 +26,7 @@ Com graduação em Administração com habilitação em Análise de Sistemas e P
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Comandos básicos para Python usando Jupyter Notebook:** https://cutt.ly/2bAjYX7
+* **Comandos básicos para Python usando Jupyter Notebook:** https://cutt.ly/CbAxfMS
 
 
 ---
