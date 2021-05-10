@@ -13,7 +13,7 @@ Como Superintendente na PMSL na Secretaria de Planejamento e Orçamento, eu dese
 * Análise do saldo orçamentário das secretarias via sistema.
 * Elaboração e análise do relatório gerencial das despesas das secretarias.
 
-Com graduação em Administração com habilitação em Análise de Sistemas e Pós em rede de Computadores, além dos cursos relacionados à área e em BI.
+Com graduação em Administração com habilitação em Análise de Sistemas e Pós em Rede de Computadores, além dos cursos relacionados à área e em BI.
 
 **Background in:** Python, Análise de Dados , Power BI, Excel.
 
