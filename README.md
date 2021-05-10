@@ -14,7 +14,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Análise de Dados , Power BI.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+* [Blog](http://)
 * [LinkedIn](https://www.linkedin.com/in/hergen-garcia/)
 * [Medium](https://www.medium.com)
 
