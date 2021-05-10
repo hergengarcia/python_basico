@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/hergen-garcia/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-395/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://cutt.ly/CbAxfMS)
+[![author](https://img.shields.io/badge/author-hergenceg-red.svg)](https://www.linkedin.com/in/hergen-garcia/) [![](https://img.shields.io/badge/python-3.95+-blue.svg)](https://www.python.org/downloads/release/python-395/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://cutt.ly/CbAxfMS)
 
 <p align="center">
   <img src="banner-ds.jpg" >
