@@ -7,7 +7,7 @@
 # Hergen Garcia
 <sub>*Superintendente na Prefeitura Municipal de São Luís - MA</sub>
 
-Como Superintendente na PMSL na Secretaria de Planejamento e Orçamento, eu desenvolvo relatórios de análise e gerenciamento da folha de pessoal da Prefeitura, trabalhando em um ambiente de equipe e atenção aos mínimos detalhes. Tendo realizado essa atividade nos últimos 10 anos, aplicando esse aprendizado para controle e orçamento da folha, desenvolvi um pensamento crítico e habilidade de resolução de problemas relacionados ao tema.
+Como Técnico Orçamentário na PMSL na Secretaria de Planejamento e Orçamento, eu desenvolvo relatórios de análise e gerenciamento da folha de pessoal da Prefeitura, trabalhando em um ambiente de equipe e atenção aos mínimos detalhes. Tendo realizado essa atividade nos últimos 10 anos, aplicando esse aprendizado para controle e orçamento da folha, desenvolvi um pensamento crítico e habilidade de resolução de problemas relacionados ao tema.
 
 * Suporte técnico a Superintendência de Assuntos Fiscais na elaboração de relatórios de receitas e despesas, demonstrativos restos a pagar e saldos orçamentários.
 * Análise do saldo orçamentário das secretarias via sistema.
